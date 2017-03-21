@@ -1,7 +1,11 @@
 #!/usr/bin/evn python
 # -*- coding:utf-8 -*-
 
-import logging;
+'''
+async web application.
+'''
+
+import logging
 
 logging.basicConfig(level=logging.INFO)
 
